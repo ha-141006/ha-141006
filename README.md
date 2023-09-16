@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [--](--)
 
-- ⚡ My Intrest **Python, game devlopment**
+- ⚡ My Intrest is in **Python, game devlopment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
