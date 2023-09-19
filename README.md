@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Harshul Kala</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Codekunst in Aktion.</h1>
+<h3 align="center">Virtuosität in der Programmierung</h3>
 <img align="right"alt="Coding"width="400" src="https://gifdb.com/images/high/dark-anime-houtarou-oreki-winter-hl1s4hucmdlwdlc4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-141006&label=Profile%20views&color=0e75b6&style=flat" alt="ha-141006" /> </p>
 
-- 🔭 I’m currently working on **Blender-Game_Level**
+- 🔭 I’m currently working on **Improving my python skills**
 
 - 🌱 I’m currently learning **C, C#, Python, Blender**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [--](--)
 
-- ⚡ My Intrest is in **Python, game devlopment**
+- ⚡ My Intrest is in **Python, game devlopment, blender python script**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
