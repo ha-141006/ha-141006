@@ -1,5 +1,5 @@
 <h1 align="center">Hello, This is Harshul.</h1>
-<h3 align="center">Virtuosität in der Programmierung</h3>
+<h3 align="center">Codekunst in Aktion</h3>
 <img align="right"alt="Coding"width="400" src="https://gifdb.com/images/high/dark-anime-houtarou-oreki-winter-hl1s4hucmdlwdlc4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ha-141006&label=Profile%20views&color=0e75b6&style=flat" alt="ha-141006" /> </p>
 
